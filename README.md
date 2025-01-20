@@ -1,5 +1,5 @@
 # AI-Survey-Survey-Monkey-challenge
-This is the winner project that my team, the Opinionated Orangutans made for the Survey Monkey Challenge
+This is the first place winning project that my team, the Opinionated Orangutans made for the Survey Monkey Challenge
 
 It may not work without the API keys however, but the javaScript files shows the concept we were going for.
 
